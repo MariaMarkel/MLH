@@ -9,8 +9,9 @@
   "storyClick": ".ant-select-show-arrow",
   "storyType": ".ant-select-item-option",
   "storyHeader": ".mb-4",
+  "storyImage": ".error__pic",
   "storyText": ".card-text",
   "tryAgain": ".btn-primary",
-  "imageUpload": ".ant-upload"
 
+  "imageUpload": ".ant-upload"
 }

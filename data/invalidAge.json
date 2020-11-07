@@ -1,0 +1,11 @@
+{
+  "myName": "Maria",
+  "myGender": {
+    "he": 0,
+    "she": 1,
+    "it": 2
+
+  },
+  "myAge": -1,
+  "myStoryType": 6
+}

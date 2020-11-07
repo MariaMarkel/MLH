@@ -3,6 +3,7 @@ const exp = require ('../../data/expected.json');
 const data = require ('../../data/testData.json');
 const inputValues4 = require ('../../helpers/inputValues4');
 const inputValues4andClick = require ('../../helpers/inputValues4andClick');
+import { expect } from 'chai';
 
 describe('Checking the main functionality', function () {
 

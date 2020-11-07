@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/mocha": "^8.0.3",
     "@wdio/allure-reporter": "^6.6.6",
     "@wdio/cli": "^6.6.7",
     "@wdio/dot-reporter": "^6.6.6",
@@ -23,6 +24,8 @@
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",
-    "@babel/register": "^7.12.1"
+    "@babel/register": "^7.12.1",
+    "chai": "*",
+    "mocha": "*"
   }
 }

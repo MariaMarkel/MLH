@@ -1,0 +1,11 @@
+{
+  "myName": "Guinevere-Caoilfhoinn Blaithnaid Jr. O'Suilleabhain Mac Giolla Mhairtin",
+  "myGender": {
+    "he": 0,
+    "she": 1,
+    "it": 2
+
+  },
+  "myAge": 10,
+  "myStoryType": 6
+}
